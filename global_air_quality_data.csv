@@ -1,0 +1,351 @@
+city,query_city,aqi,latitude,longitude,date,url,parameter,value,unit,aqi_category,health_recommendation,country
+Shanghai (上海),new york,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cairo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cairo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cairo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cairo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cairo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cairo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cairo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cairo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cairo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),dubai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cape town,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),dubai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),dubai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),dubai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),dubai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),dubai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),dubai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),dubai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),dubai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cairo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cape town,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),melbourne,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),johannesburg,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sao paulo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),johannesburg,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),johannesburg,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),johannesburg,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),johannesburg,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),johannesburg,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),johannesburg,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),johannesburg,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),johannesburg,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cape town,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),johannesburg,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cape town,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cape town,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cape town,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cape town,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cape town,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cape town,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),cape town,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),dubai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),melbourne,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sao paulo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),bangkok,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),singapore,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),singapore,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),singapore,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),singapore,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),singapore,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),bangkok,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),bangkok,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),bangkok,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),bangkok,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),singapore,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),bangkok,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),bangkok,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),bangkok,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),bangkok,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),bangkok,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),delhi,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),delhi,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),delhi,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),singapore,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),singapore,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),melbourne,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sydney,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),melbourne,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),melbourne,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),melbourne,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),melbourne,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),melbourne,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),melbourne,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),melbourne,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sydney,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sydney,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),singapore,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sydney,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sydney,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sydney,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sydney,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sydney,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sydney,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sydney,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),singapore,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sao paulo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sao paulo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),new york,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),istanbul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),lagos,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),lagos,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),lagos,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),lagos,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),lagos,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),lagos,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),lagos,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),istanbul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),istanbul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),lagos,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),istanbul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),istanbul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),istanbul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),istanbul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),istanbul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),istanbul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),istanbul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),moscow,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),lagos,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),lagos,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),moscow,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),manila,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),manila,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),manila,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),manila,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),manila,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),manila,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),manila,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),manila,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),manila,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),jakarta,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),jakarta,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),jakarta,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),jakarta,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),jakarta,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),jakarta,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),jakarta,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),jakarta,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),jakarta,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),jakarta,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),moscow,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),moscow,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sao paulo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rio de janeiro,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),buenos aires,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),buenos aires,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),buenos aires,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rio de janeiro,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rio de janeiro,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rio de janeiro,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rio de janeiro,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rio de janeiro,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rio de janeiro,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),buenos aires,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rio de janeiro,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rio de janeiro,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rio de janeiro,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sao paulo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sao paulo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sao paulo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sao paulo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),sao paulo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),buenos aires,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),buenos aires,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),moscow,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),santiago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),moscow,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),moscow,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),moscow,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),moscow,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),moscow,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),santiago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),santiago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),santiago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),santiago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),buenos aires,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),santiago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),santiago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),santiago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),santiago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),santiago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),buenos aires,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),buenos aires,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),buenos aires,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),delhi,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),delhi,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),delhi,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),london,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),paris,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),paris,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),paris,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),paris,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),london,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),london,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),london,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),london,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),london,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),paris,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),london,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),london,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),london,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),london,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mexico city,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mexico city,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mexico city,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mexico city,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),paris,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),paris,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mexico city,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),berlin,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),madrid,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),madrid,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),madrid,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),madrid,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),madrid,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),madrid,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),berlin,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),berlin,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),berlin,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),paris,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),berlin,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),berlin,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),berlin,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),berlin,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),berlin,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),berlin,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),paris,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),paris,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mexico city,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mexico city,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),delhi,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),los angeles,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),los angeles,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),los angeles,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),los angeles,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),los angeles,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),los angeles,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),los angeles,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),los angeles,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),los angeles,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),los angeles,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),chicago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),new york,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),new york,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),new york,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),new york,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),new york,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),new york,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),new york,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),new york,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),chicago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),chicago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mexico city,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),toronto,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mexico city,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mexico city,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),toronto,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),toronto,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),toronto,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),toronto,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),toronto,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),toronto,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),toronto,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),chicago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),toronto,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),toronto,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),chicago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),chicago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),chicago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),chicago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),chicago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),chicago,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),madrid,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),madrid,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),madrid,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),tokyo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),seoul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),tokyo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),tokyo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),tokyo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),tokyo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),tokyo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),tokyo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),tokyo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),tokyo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),seoul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),tokyo,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),shanghai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),shanghai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),shanghai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),shanghai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),shanghai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),shanghai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),shanghai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),seoul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),seoul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),madrid,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mumbai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),delhi,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),delhi,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),delhi,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mumbai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mumbai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mumbai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mumbai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mumbai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mumbai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),seoul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mumbai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mumbai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),mumbai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),seoul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),seoul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),seoul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),seoul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),seoul,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),shanghai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),shanghai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),shanghai,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rome,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),amsterdam,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),amsterdam,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),amsterdam,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),amsterdam,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),amsterdam,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),amsterdam,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),amsterdam,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),amsterdam,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rome,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),beijing,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rome,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rome,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rome,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rome,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rome,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rome,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rome,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),rome,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),amsterdam,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),amsterdam,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),stockholm,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),stockholm,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),beijing,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),beijing,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),beijing,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),beijing,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),beijing,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),beijing,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),beijing,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),beijing,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,h,74.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),beijing,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,co,4.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),stockholm,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),stockholm,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,t,30.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),stockholm,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,so2,3.6,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),stockholm,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm25,50.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),stockholm,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,pm10,24.0,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),stockholm,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,p,1006.0,unknown,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),stockholm,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,o3,10.2,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),stockholm,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,no2,5.1,AQI,Good,🟢 Great day for outdoor activities!,Unknown
+Shanghai (上海),manila,50,31.2047372,121.4489017,2025-07-19 20:00:00,https://aqicn.org/city/shanghai,w,5.6,unknown,Good,🟢 Great day for outdoor activities!,Unknown
